@@ -11,7 +11,7 @@ This document outlines the SQL coding standards for the project. Adhering to the
   - Use consistent formatting for SQL statements (e.g., line breaks, indentation).
   - Use meaningful aliases for tables and columns to improve readability.
   - Use uppercase for SQL keywords (e.g., `SELECT`, `FROM`, `WHERE`).
-  - Use lowercase for table and column names (e.g., users, orders).
+  - Use pascalCase for table and column names (e.g., Users, Orders).
   - Use camelCase for table and column names (e.g., userId, orderDate).
   - Avoid using reserved keywords as identifiers (e.g., table names, column names).
 - Avoid using `SELECT *`; specify the columns you need.
