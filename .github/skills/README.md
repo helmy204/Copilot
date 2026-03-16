@@ -23,6 +23,7 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
 
 | Name | Description | Bundled Assets |
 | ---- | ----------- | -------------- |
+| [breakdown-plan-azure](../skills/breakdown-plan-azure/SKILL.md) | Azure DevOps work item planning and automation prompt that generates comprehensive project plans with Epic > Feature > Story > Test hierarchy, dependencies, priorities, and board tracking. | None |
 | [breakdown-test-jira](../skills/breakdown-test-jira/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Jira projects. | None |
 | [breakdown-test-azure](../skills/breakdown-test-azure/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Azure DevOps projects. | None |
 
