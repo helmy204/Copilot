@@ -27,3 +27,4 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
 | [breakdown-test-jira](../skills/breakdown-test-jira/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Jira projects. | None |
 | [breakdown-test-azure](../skills/breakdown-test-azure/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Azure DevOps projects. | None |
 | [csharp-xunit](../skills/csharp-xunit/SKILL.md) | Get best practices for XUnit unit testing, including data-driven tests | None |
+| [javascript-typescript-jest](../skills/javascript-typescript-jest/SKILL.md) | Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns. | None |
