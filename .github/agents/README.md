@@ -21,3 +21,4 @@ Custom agents for GitHub Copilot, making it easy for users and organizations to 
 | Title | Description | MCP Servers |
 | ----- | ----------- | ----------- |
 | [PostgreSQL Database Administrator](../agents/postgresql-dba.agent.md) | Work with PostgreSQL databases using the PostgreSQL extension. |  |
+| [Create PRD Chat Mode](../agents/prd.agent.md) | Generate a comprehensive Product Requirements Document (PRD) in Markdown, detailing user stories, acceptance criteria, technical considerations, and metrics. |  |
