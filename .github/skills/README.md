@@ -29,3 +29,4 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
 | [csharp-xunit](../skills/csharp-xunit/SKILL.md) | Get best practices for XUnit unit testing, including data-driven tests | None |
 | [javascript-typescript-jest](../skills/javascript-typescript-jest/SKILL.md) | Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns. | None |
 | [dotnet-best-practices](../skills/dotnet-best-practices/SKILL.md) | Ensure .NET/C# code meets best practices for the solution/project. | None |
+| [csharp-async](../skills/csharp-async/SKILL.md) | Get best practices for C# async programming | None |
