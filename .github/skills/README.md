@@ -27,8 +27,9 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
 | [breakdown-plan-jira](../skills/breakdown-plan-jira/SKILL.md) | Jira ticket planning and automation prompt that generates comprehensive project plans with Epic > Story/Task > Sub-task hierarchy, dependencies, priorities, and board tracking. | None |
 | [breakdown-test-jira](../skills/breakdown-test-jira/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Jira projects. | None |
 | [breakdown-test-azure](../skills/breakdown-test-azure/SKILL.md) | Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for Azure DevOps projects. | None |
+| [breakdown-epic-pm](../skills/breakdown-epic-pm/SKILL.md) | Prompt for creating an Epic Product Requirements Document (PRD) for a new epic. This PRD will be used as input for generating a technical architecture specification. | None |
+| [breakdown-epic-arch](../skills/breakdown-epic-arch/SKILL.md) | Prompt for creating the high-level technical architecture for an Epic, based on a Product Requirements Document. | None |
 | [csharp-xunit](../skills/csharp-xunit/SKILL.md) | Get best practices for XUnit unit testing, including data-driven tests | None |
 | [javascript-typescript-jest](../skills/javascript-typescript-jest/SKILL.md) | Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns. | None |
 | [dotnet-best-practices](../skills/dotnet-best-practices/SKILL.md) | Ensure .NET/C# code meets best practices for the solution/project. | None |
 | [csharp-async](../skills/csharp-async/SKILL.md) | Get best practices for C# async programming | None |
-| [breakdown-epic-arch](../skills/breakdown-epic-arch/SKILL.md) | Prompt for creating the high-level technical architecture for an Epic, based on a Product Requirements Document. | None |
