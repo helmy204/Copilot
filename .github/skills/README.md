@@ -33,3 +33,7 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
 | [javascript-typescript-jest](../skills/javascript-typescript-jest/SKILL.md) | Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns. | None |
 | [dotnet-best-practices](../skills/dotnet-best-practices/SKILL.md) | Ensure .NET/C# code meets best practices for the solution/project. | None |
 | [csharp-async](../skills/csharp-async/SKILL.md) | Get best practices for C# async programming | None |
+| [create-implementation-plan](../skills/create-implementation-plan/SKILL.md) | Create a new implementation plan file for new features, refactoring existing code or upgrading packages, design, architecture or infrastructure. | None |
+| [create-architectural-decision-record](../skills/create-architectural-decision-record/SKILL.md) | Create an Architectural Decision Record (ADR) document for AI-optimized decision documentation. | None |
+| [breakdown-feature-prd](../skills/breakdown-feature-prd/SKILL.md) | Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic. | None |
+| [breakdown-feature-implementation](../skills/breakdown-feature-implementation/SKILL.md) | Prompt for creating detailed feature implementation plans, following Epoch monorepo structure. | None |
