@@ -25,5 +25,6 @@ Custom agents for GitHub Copilot, making it easy for users and organizations to 
 | [Product Manager Jira Advisor](../agents/product-manager-advisor-jira.agent.md) | Product management guidance for creating Jira tickets, aligning business value with user needs, and making data-driven product decisions |  |
 | [Software Engineer Agent](../agents/software-engineer.agent.md) | Expert-level software engineering agent. Deliver production-ready, maintainable code. Execute systematically and specification-driven. Document comprehensively. Operate autonomously and adaptively. |  |
 | [Senior Cloud Architect](../agents/senior-cloud-architect.agent.md) | Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation |  |
+| [Azure SaaS Architect mode instructions](../agents/azure-saas-architect.agent.md) | Provide expert Azure SaaS Architect guidance focusing on multitenant applications using Azure Well-Architected SaaS principles and Microsoft best practices. |  |
 
 
