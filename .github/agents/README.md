@@ -27,3 +27,4 @@ Custom agents for GitHub Copilot, making it easy for users and organizations to 
 | [Senior Cloud Architect](../agents/senior-cloud-architect.agent.md) | Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation |  |
 | [Azure SaaS Architect mode instructions](../agents/azure-saas-architect.agent.md) | Provide expert Azure SaaS Architect guidance focusing on multitenant applications using Azure Well-Architected SaaS principles and Microsoft best practices. |  |
 | [Azure Principal Architect mode instructions](../agents/azure-principal-architect.agent.md) | Provide expert Azure Principal Architect guidance using Azure Well-Architected Framework principles and Microsoft best practices. |  |
+| [API Architect](../agents/api-architect.agent.md) | Your role is that of an API architect. Help mentor the engineer by providing guidance, support, and working code. |  |
