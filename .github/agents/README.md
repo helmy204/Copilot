@@ -24,4 +24,6 @@ Custom agents for GitHub Copilot, making it easy for users and organizations to 
 | [Create PRD Chat Mode](../agents/prd.agent.md) | Generate a comprehensive Product Requirements Document (PRD) in Markdown, detailing user stories, acceptance criteria, technical considerations, and metrics. |  |
 | [Product Manager Jira Advisor](../agents/product-manager-advisor-jira.agent.md) | Product management guidance for creating Jira tickets, aligning business value with user needs, and making data-driven product decisions |  |
 | [Software Engineer Agent](../agents/software-engineer.agent.md) | Expert-level software engineering agent. Deliver production-ready, maintainable code. Execute systematically and specification-driven. Document comprehensively. Operate autonomously and adaptively. |  |
+| [Senior Cloud Architect](../agents/senior-cloud-architect.agent.md) | Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation |  |
+
 
