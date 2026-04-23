@@ -32,11 +32,11 @@ The output should be a complete Epic Architecture Specification in Markdown form
 
 #### 2. System Architecture Diagram
 
-Create a comprehensive Mermaid diagram that illustrates the complete system architecture for this epic. The diagram should include:
+Create a comprehensive PlantUML diagram that illustrates the complete system architecture for this epic. The diagram should include:
 
 - **User Layer**: Show how different user types (web browsers, mobile apps, admin interfaces) interact with the system
-- **Application Layer**: Depict load balancers, application instances, and authentication services (Stack Auth)
-- **Service Layer**: Include tRPC APIs, background services, workflow engines (n8n), and any epic-specific services
+- **Application Layer**: Depict load balancers, application instances, and authentication services (OAuth2)
+- **Service Layer**: Include APIs, background services, workflow engines, and any epic-specific services
 - **Data Layer**: Show databases (PostgreSQL), vector databases (Qdrant), caching layers (Redis), and external API integrations
 - **Infrastructure Layer**: Represent Docker containerization and deployment architecture
 

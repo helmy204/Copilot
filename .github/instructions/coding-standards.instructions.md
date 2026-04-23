@@ -20,6 +20,6 @@ This document outlines the general coding standards for the project. Adhering to
 - Use version control best practices, including meaningful commit messages and regular commits.
 
 ## Reference Instructions
-- Follow [copilot guidelines](../instructions/copilot.instructions.md)
-- Follow [quality guidelines](../instructions/quality.instructions.md)
-- Follow [security guidelines](../instructions/security.instructions.md)
+- Follow [copilot guidelines](./copilot.instructions.md)
+- Follow [quality guidelines](./quality.instructions.md)
+- Follow [security guidelines](./security.instructions.md)

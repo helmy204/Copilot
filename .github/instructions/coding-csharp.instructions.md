@@ -112,3 +112,8 @@ applyTo: '**/*.cs'
 - Demonstrate deployment to cloud services, including (Azure App Service, Azure Container Apps, Google Cloud Run, Google Kubernetes Engine, AWS Elastic Beanstalk) or other hosting options.
 - Show how to implement health checks and readiness probes.
 - Explain environment-specific configurations for different deployment stages.
+
+## Reference Instructions
+- Follow [general coding standards](./coding-standards.instructions.md)
+- Follow [coding quality guidelines](./quality.instructions.md)
+- Follow [security guidelines](./security.instructions.md)

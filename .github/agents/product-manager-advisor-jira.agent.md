@@ -2,7 +2,7 @@
 name: 'Product Manager Jira Advisor'
 description: 'Product management guidance for creating Jira tickets, aligning business value with user needs, and making data-driven product decisions'
 model: GPT-5.2
-tools: ['search/codebase', 'jira', 'create_issue', 'update_issue', 'list_issues', 'search_issues']
+tools: ['search/codebase','edit/createFile', 'jira', 'create_issue', 'update_issue', 'list_issues', 'search_issues']
 ---
 
 # Product Manager Jira Advisor
