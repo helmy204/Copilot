@@ -29,4 +29,6 @@ Custom agents for GitHub Copilot, making it easy for users and organizations to 
 | [Azure Principal Architect mode instructions](../agents/azure-principal-architect.agent.md) | Provide expert Azure Principal Architect guidance using Azure Well-Architected Framework principles and Microsoft best practices. |  |
 | [API Architect](../agents/api-architect.agent.md) | Your role is that of an API architect. Help mentor the engineer by providing guidance, support, and working code. |  |
 | [Project Architecture Planner](../agents/project-architecture-planner.agent.md) | Holistic software architecture planner that evaluates tech stacks, designs scalability roadmaps, performs cloud-agnostic cost analysis, reviews existing codebases, and delivers interactive Mermaid diagrams with HTML preview and draw.io export |  |
+| [DevOps Expert](../agents/devops-expert.agent.md) | DevOps specialist following the infinity loop principle (Plan → Code → Build → Test → Release → Deploy → Operate → Monitor) with focus on automation, collaboration, and continuous improvement |  |
+| [SE: DevOps/CI](../agents/se-gitops-ci-specialist.agent.md) | DevOps specialist for CI/CD pipelines, deployment debugging, and GitOps workflows focused on making deployments boring and reliable |  |
 
