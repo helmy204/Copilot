@@ -27,3 +27,4 @@ Follow these best practices to ensure code reliability and maintainability:
 
 ## References
 - [architecture](../instructions/architecture.instructions.md)
+- Follow [coding quality guidelines](./quality.instructions.md)
