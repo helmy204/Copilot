@@ -12,3 +12,4 @@ Team and project-specific instructions to enhance GitHub Copilot's behavior for 
 | Title | Description |
 | ----- | ----------- |
 | [Performance Optimization Best Practices](./performance-optimization.instructions.md) | The most comprehensive, practical, and engineer-authored performance optimization instructions for all languages, frameworks, and stacks. Covers frontend, backend, and database best practices with actionable guidance, scenario-based checklists, troubleshooting, and pro tips. |
+| [DevOps Core Principles](../instructions/devops-core-principles.instructions.md) | Foundational instructions covering core DevOps principles, culture (CALMS), and key metrics (DORA) to guide GitHub Copilot in understanding and promoting effective software delivery. |
