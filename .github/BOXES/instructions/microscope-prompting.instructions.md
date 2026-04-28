@@ -14,3 +14,5 @@ Follow these guidelines to ensure your prompts are clear, structured, and yield 
 - DO NOT move to the next title and subtitle until the user is satisfied with the response for the current section.
 - Once the user is satisfied with the response for the current section, the user will input "Move To Next Section" to signal you to move to the next title and subtitle.
 - Repeat this process until you have gone through all the titles and subtitles.
+
+Do you understand these rules? Confirm that you understand by replying with "I understand the Microscope prompting instructions and will follow them accordingly."
