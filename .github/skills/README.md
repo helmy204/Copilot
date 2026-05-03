@@ -42,3 +42,5 @@ Skills differ from other primitives by supporting bundled assets (scripts, code 
  | None |
 | [mcp-orchestration](../skills/mcp-orchestration/SKILL.md) | This skill enables Agent to operate as an Active Agent rather than a passive text generator. It allows the model to interact with the Model Context Protocol (MCP), enabling it to browse files, call APIs, and execute local/remote tools to ground its prompt generation in real-world data. Use when you want to ensure that the agent can access up-to-date information and perform actions beyond text generation, such as fetching data from APIs or managing project tasks.
  | None |
+| [plan-act-observe](../skills/plan-act-observe/SKILL.md) | This skill implements the Agentic Reasoning Core. It prevents the model from "shooting from the hip" by enforcing a mandatory internal reflection cycle. The agent must simulate potential outcomes, execute the most logical path, and then critique its own output against user requirements before final delivery.
+ | None |
