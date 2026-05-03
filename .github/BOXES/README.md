@@ -125,12 +125,12 @@ Users form opinions about your product in milliseconds. A polished, cohesive vis
 - Confirm that the user understands the product in 30 seconds
 
 ### Recommended Tools
+- [Stitch](https://stitch.withgoogle.com): AI generated product screens.
 - [Figma Make +AI Plugins](https://www.figma.com/make)
--  Canva AI
+- Canva AI
 - Midjourney / Ideogram
 - Adobe Firefly
 - ChatGpt, Gemini, qwen
-- [Stitch](https://stitch.withgoogle.com): AI generated product screens.
 - [Google Fonts](https://fonts.google.com)
 - [uBrand](https://ubrand.com): AI generated business cards, powerpoint templates, etc...
 - [BrandMark](https://brandmark.io): AI created Logos.
