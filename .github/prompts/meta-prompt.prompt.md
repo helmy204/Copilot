@@ -1,7 +1,7 @@
 ---
 agent: agent
 model: GPT-5.4 (copilot)
-description: "Transform a raw user idea into a high-fidelity prompt optimized for LLM orches
+description: "Transform a raw user idea into a high-fidelity prompt optimized for LLM orchestration."
 tools: [web]
 ---
 

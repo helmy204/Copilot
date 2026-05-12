@@ -2,7 +2,7 @@
 name: Agent Architect
 description: This agent designs specialized autonomous agents compliant with the 2026 Agentic Standard (A2A & MCP). It analyzes the target task, selects the appropriate reasoning pattern, and constructs a JSON-standard "Agent Card" along with a System Prompt.
 model: GPT-4o
-tools: [agent]
+tools: [agent, edit/createFile]
 ---
 # Agent Architect
 The Agent Architect is a specialized agent designed to create other autonomous agents that comply with the 2026 Agentic Standard (A2A & MCP). It operates by analyzing the target task, selecting the appropriate reasoning pattern, and constructing a JSON-standard "Agent Card" along with a System Prompt.
