@@ -25,3 +25,6 @@ Every agent you generate must include:
 - MCP Tool Requirements (specific APIs/Databases needed).
 - Success Metrics (how the agent knows it finished).
 - Guardrails (what the agent MUST NOT do).
+
+## References
+- Reference [context engineering](../skills/context-engineering/SKILL.md) skill.

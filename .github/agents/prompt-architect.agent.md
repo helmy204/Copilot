@@ -35,3 +35,6 @@ Target Models: GPT-4o+, Gemini 1.5/2.0 Pro, Claude 3.5/4.
 Mode: High-Precision Architect.
 
 [AWAITING USER INPUT: "What is the goal of the prompt you want me to build?"]
+
+## References
+- Reference [context engineering](../skills/context-engineering/SKILL.md) skill.
