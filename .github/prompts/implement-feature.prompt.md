@@ -1,13 +1,7 @@
 ---
 agent: 'agent'
-model: 'Claude Sonnet 4.5'
-tools: [
-  'search/codebase', 'search/usages', 'edit/editFiles','search/searchResults', 'search/changes', 'vscode/openSimpleBrowser', 'search',
-  'execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalLastCommand', 'read/terminalSelection', 'execute/createAndRunTask', 'execute/getTaskOutput', 'execute/runTask', 'execute/runTests', 
-  'vscode/extensions', 'read/terminalLastCommand', 'read/terminalSelection', 'vscode/vscodeAPI'
-  'web/githubRepo', 'vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/runCommand', 'web/fetch', 
-  'read/problems', 'execute/testFailure'
-  ]
+model: Claude Sonnet 4.6 (copilot)
+tools: ['search/changes', 'search/codebase', 'edit/editFiles', 'vscode/extensions', 'web/fetch', 'vscode/runCommand', 'read/problems', 'execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalLastCommand', 'read/terminalSelection', 'execute/createAndRunTask', 'execute/runTests', 'search', 'read/terminalLastCommand', 'read/terminalSelection', 'search/usages', 'vscode/vscodeAPI', 'postgresql-mcp/pgsql_connect', 'postgresql-mcp/pgsql_disconnect', 'postgresql-mcp/pgsql_open_script', 'postgresql-mcp/pgsql_query']
 description: 'Implement a given feature for a given service.'
 ---
 
@@ -21,13 +15,13 @@ description: 'Implement a given feature for a given service.'
 
 ## Task:
 - Read the implementation plan attached as reference (`.github/features/{FEATURE_NAME}/Plan.md`. `{FEATURE_NAME}` is the name of the feature you are working on and it will be given with prompt as a reference.
-- Read the implementation steps from the plan and implement the feature iteratively in `api/` folder.
+- Read the implementation steps from the plan and implement the feature iteratively in `/` folder.
 - Ensure the feature is modular, maintainable, and follows the project standards.
 - Document any changes made to the codebase, including new files, modified files, and any assumptions or limitations encountered during implementation.
 
 ## Outcome:
 - Given feature is implemented successfully.
-- A markdown document as `api/.workspace/feature/{FEATURE_NAME}.md` that includes:
+- A markdown document as `.workspace/feature/{FEATURE_NAME}.md` that includes:
   - Overview of the feature and its purpose
   - List of files changed or added
   - Any assumptions or limitations identified during the implementation phase

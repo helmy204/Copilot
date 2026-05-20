@@ -1,6 +1,6 @@
 ---
-agent: 'agent'
-model: GPT-5.2 (copilot)
+agent: Plan
+model: GPT-5 mini
 description: 'Generate a implementation plan for given service feature.'
 ---
 
@@ -13,7 +13,7 @@ description: 'Generate a implementation plan for given service feature.'
 
 ## Task:
 - Read the attached feature specification files under `.github/features/{FEATURE_NAME}/Details.md` folder, will be attached as reference. `{FEATURE_NAME}` is the name of the feature you are working on and it will be given with prompt as a reference.
-- Go through the codebase in `api/` folder iteratively to identify which files need to be changed or added to implement the feature.
+- Go through the codebase in `/` folder iteratively to identify which files need to be changed or added to implement the feature.
 - Identify the dependencies and interactions with other parts of the codebase.
 - Generate a step-by-step implementation plan for the attached feature, including:
   - Implementation steps
@@ -21,7 +21,7 @@ description: 'Generate a implementation plan for given service feature.'
   - Documentation steps
 
 ## Outcome:
-A markdown document as `api/.workspace/plan/feature/{FEATURE_NAME}.md` that includes:
+A markdown document as `.workspace/plan/feature/{FEATURE_NAME}.md` that includes:
   - Overview of the feature and its purpose
   - List of files to be changed or added
   - Step-by-step implementation plan with code snippets where applicable
